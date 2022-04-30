@@ -3,7 +3,7 @@ Tool to identify and (if possible) remove outliers in a 4D fMRI image.
 # Installation
 This tool is written in Python 3.10.3 as a python module, before installing it, make sure you have at least that version of Python.
 
-## Option A (recommended)
+## Option A
 You can use Poetry (https://python-poetry.org) to install the python environment. To do so, in the root folder of the cloned repository, type:
 
 ```
