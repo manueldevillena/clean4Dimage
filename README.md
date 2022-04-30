@@ -32,13 +32,13 @@ pip install -r requirements.txt
 This tool can be run as a python module. The help function can be called as:
 
 ```
-python -m cleanimage -h
+python -m clean4Dimage -h
 ```
 
 An example can be run with:
 
 ```
-python -m cleanimage -o results
+python -m clean4Dimage -o results
 ```
 
 
